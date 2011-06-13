@@ -1,0 +1,6 @@
+This is a first approach to add paragraph numbering to CKEDitor.
+
+There are some known issues:
+ - The content is autoresized. Yet there is no option to fix editor's height and make number bar scrolling
+ - requires jQuery
+
